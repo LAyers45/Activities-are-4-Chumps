@@ -1,6 +1,6 @@
 # Activities-are-4-Chumps
 <html>
-<Title> AA4C </Title>
+<h1> AA4C </h1>
 <head>
 <h1> Chumps </h1>
 <head>
